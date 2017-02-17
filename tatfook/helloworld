@@ -1,0 +1,10 @@
+## hello world
+
+```lua
+local function hello(str)
+	if(str) then
+		echo(str)
+	end
+end
+```
+![test](https://raw.githubusercontent.com/LiXizhi/wikicraftDataSource/master/images/img_1487341826819.png)
