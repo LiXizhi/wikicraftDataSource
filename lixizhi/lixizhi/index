@@ -1,0 +1,17 @@
+```@template/default
+{
+"backgroundColor":"rgb(255,248,232)",
+"class":"container"
+}
+```
+```@header/js/personalHeader
+```
+```@statics/js/personalStatics
+```
+```@works/js/workslist
+{
+"title":"最近更新",
+"type":"latestUpdate"
+}
+```
+
