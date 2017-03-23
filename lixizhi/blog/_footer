@@ -1,1 +1,7 @@
-copy right a
+```@example/js/example
+{
+    "title": "title",
+    "content": "hello wiki module!!!"
+}
+```
+
