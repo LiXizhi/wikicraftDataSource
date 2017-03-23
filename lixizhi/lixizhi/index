@@ -8,10 +8,6 @@
 ```
 ```@statics/js/personalStatics
 ```
-```@works/js/workslist
-{
-"title":"最近更新",
-"type":"latestUpdate"
-}
+```@board/main
 ```
 
