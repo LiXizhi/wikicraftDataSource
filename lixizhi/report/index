@@ -1,4 +1,3 @@
-
 ```@wiki/js/resumeDetail
 {
     "workList":[
@@ -25,12 +24,14 @@
         }
     ]
 }
-
+```
 
 
 ```@board/main
 ```
 
 ## aaa
-asda
+asda```@board/main
+```
+
 
